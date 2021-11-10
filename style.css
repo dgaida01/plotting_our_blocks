@@ -13,18 +13,18 @@
 }
 .side-nav {
     height: 300px;
-    width: 150px;
+    width: 180px;
     background-color: blue;
     display:inline-block;
     margin-left: 1rem;
 }
 .main {
     height: 400px;
-    width: 700px;
+    width: 720px;
     background-color: red;
     display:inline-block;
     vertical-align: top;
-    margin-left: .5rem;
+    margin-left: 1rem;
     margin-bottom: 1rem;
 }
 .sub-content {
